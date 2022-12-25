@@ -2,4 +2,5 @@
 A c++ project, utilizing the open CV library.
 
 
-![](blob:https://app.clipchamp.com/ed85fcb8-5beb-4eb1-90d9-e0b6bd2c1ff5)
+
+![Untitled video - Made with Clipchamp](https://user-images.githubusercontent.com/106642545/209458848-af4ae92b-634d-4303-9658-dc592c3ccf39.gif)
